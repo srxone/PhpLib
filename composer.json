@@ -2,5 +2,8 @@
     "name": "srxone/phplib",
     "type": "library",
     "description": "PHP Library of misc functions and stuff",
-    "licence": "MIT"
+    "licence": "MIT",
+    "require": {
+        "php": ">=7.3"
+    }
 }
