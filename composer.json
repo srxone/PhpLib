@@ -1,4 +1,6 @@
 {
     "name": "srxone/phplib",
-    "type": "library"
+    "type": "library",
+    "description": "PHP Library of misc functions and stuff",
+    "licence": "MIT"
 }
